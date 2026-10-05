@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sherwood.webart.work/sitemap.xml
+Sitemap: https://sherwood.hotelup.work/sitemap.xml
